@@ -10,7 +10,9 @@
 
 ## About the code
 
-This is the mobile frontend of the **NLW heat 2021** project, carried out by _rocketseat_. It is free to use, and any questions or errors, please do **not hesitate to consult me**, or post an **issue**.
+This is the mobile frontend of the **NLW heat 2021** project, carried out by _rocketseat_. It is free to use, and any questions or errors, please do **not hesitate to consult me**, or post an **issue**. 
+
+To send the message, you have to be registered by github. Your information is saved in a token. Messages update simultaneously on all devices connected to the application through a **web socket**.
 
 ## Datasheet
 
@@ -18,6 +20,7 @@ In this code we used:
 - React-native;
 - Typescript/TSX;
 - Expo;
+- Socket.io;
 - and other libs for react-native.
 
 ## Preview
