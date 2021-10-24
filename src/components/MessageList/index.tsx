@@ -11,7 +11,7 @@ export function MessageList(){
     text: 'string teste',
     user: {
       name: 'iuri',
-      avatar_url: 'https://randomuser.me/api/portraits/women/44.jpg',
+      avatar_url: 'https://github.com/guiliuri13.png',
     }
   }
 

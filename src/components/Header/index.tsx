@@ -19,7 +19,7 @@ export function Header() {
 
         </TouchableOpacity>
 
-        <UserPhoto imageUri='https://randomuser.me/api/portraits/women/44.jpg'/>
+        <UserPhoto imageUri='https://github.com/guiliuri13.png'/>
 
       </View>
 
